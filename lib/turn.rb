@@ -32,7 +32,7 @@ def turn(board)
  else
    "That wasn't a valid input."
 end
-
+end 
 
 
  
