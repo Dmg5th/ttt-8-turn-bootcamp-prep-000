@@ -30,7 +30,7 @@ def turn(board)
    move(board, index)
    display_board(board)
  else
-   "That wasn't a valid input. Please enter 1-9:"
+   "Please enter 1-9:"
   end
 end 
 
